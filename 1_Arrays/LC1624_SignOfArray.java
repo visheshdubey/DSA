@@ -1,4 +1,4 @@
-public class SignOfArray {
+public class LC1624_SignOfArray {
     public static void main(String[] args) {
 
         int arr[] = { 9, 72, 34, 29, -49, -22, -77, -17, -66, -75, -44, -30, -24 };

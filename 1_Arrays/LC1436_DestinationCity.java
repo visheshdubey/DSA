@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class DestinationCity {
+public class LC1436_DestinationCity {
     public static void main(String[] args) {
         Solution sol = new Solution();
 
